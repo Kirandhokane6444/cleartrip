@@ -1,0 +1,13 @@
+.logo{
+    font-size: 18px;
+    font-family: cursive;
+    background-color: orange;
+}
+a {
+    cursor: pointer;
+}
+.active{
+    border-bottom: 5px solid blue;
+    color: blue !important;
+    font-weight: 800;
+}
